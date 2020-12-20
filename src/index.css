@@ -1,0 +1,13 @@
+@import '~antd/dist/antd.css';
+
+.site-layout-background {
+  background: #fff;
+}
+ 
+.site-top-game-list ul {
+  max-height: 700px;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+
